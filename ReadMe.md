@@ -9,7 +9,6 @@ _Deep learning representations across modalities._
 [![GitHub](https://img.shields.io/badge/GitHub-Spatenfe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Spatenfe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Förster-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-foerster-li/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VeMI50UAAAAJ)
-[![Email](https://img.shields.io/badge/Email-f.foerster%40tum.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:f.foerster@tum.de)
 [![Portfolio](https://img.shields.io/badge/Portfolio-spatenfe.github.io-000000?style=flat-square&logo=vercel&logoColor=white)](https://spatenfe.github.io/)
 
 </div>
