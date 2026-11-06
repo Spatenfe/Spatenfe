@@ -20,8 +20,6 @@ _Deep learning across vision and language — from generative vision pipelines t
 
 M.Sc. Computer Science student at **TUM** (Technical University of Munich), researching computer vision, NLP, and deep learning for 3D geometry. Currently a Student Assistant at the **TUM Computer Vision Group (MuMoL)**, building LLM agents and adapting open-source models for medical deployment.
 
-🔭 **Currently:** joining **Sophia Koepke** and **Alexei (Alyosha) Efros** at **BAIR, UC Berkeley** for a summer research stay.
-
 
 ---
 
